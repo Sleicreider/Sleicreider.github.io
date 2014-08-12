@@ -1,4 +1,4 @@
 Sleicreider.github.io
 =====================
 
-Web
+Pre-version Website for the company SleiTec and it's founder "Sleicreider"
