@@ -20,6 +20,7 @@ section.tab
 {
 	width: 250px;
 	float: right;
+    background: white;
 }
 
 li.tab
@@ -33,7 +34,8 @@ li.tab
 }
 
 header.tab
-{	background: url(bar_fat.png);
+{	
+    background: url(bar_fat.png);
 	border-radius: 4px;
 	font-size: 20px;
 	color: white;
@@ -42,6 +44,7 @@ header.tab
 
 article.tab
 {	
+    background: white;
 	border: 1px solid #dedede;
 	border-radius: 4px;
 	padding: 24px 24px;
