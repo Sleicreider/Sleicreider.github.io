@@ -33,6 +33,15 @@ li.tab
 	width: 230px
 }
 
+header.main
+{	
+    background: url(bar_fat.png);
+	border-radius: 4px;
+	font-size: 25px;
+	color: black;
+	padding: 10px 10px;
+}
+
 header.tab
 {	
     background: url(bar_fat.png);
@@ -42,11 +51,22 @@ header.tab
 	padding: 10px 10px;
 }
 
+article.main
+{	
+    background: white;
+	border: 1px solid #dedede;
+	border-radius: 4px;
+	padding: 24px 24px;
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+
 article.tab
 {	
     background: white;
 	border: 1px solid #dedede;
 	border-radius: 4px;
 	padding: 24px 24px;
+    margin-bottom: 20px;
 }
 	/*background: url
